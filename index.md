@@ -1,9 +1,9 @@
 ---
 layout: default
-title: GitHub Pages Demo
+title: Foo
 ---
 
-# {{ title }}
+# GitHub Pages Demo
 
 ## Overview
 

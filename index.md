@@ -1,7 +1,10 @@
 ---
-layout: default2
+layout: default
 title: GitHub Pages Demo
 ---
+
+# {{ title }}
+
 ## Overview
 
 This is a site to demo GitHub Pages.
